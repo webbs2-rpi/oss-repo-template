@@ -1,4 +1,5 @@
 1.3:
+
 \begin{equation*}
 \sqrt{1 + 2\sqrt{1 + 3\sqrt{1 + 4\sqrt{1 + \cdots}}}}
 \end{equation*}
